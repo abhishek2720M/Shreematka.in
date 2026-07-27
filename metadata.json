@@ -1,0 +1,6 @@
+{
+  "name": "Shree Matka",
+  "description": "India's No. 1 Matka app for real-time live results, betting simulation, secure wallet deposits & withdrawals, admin panel, analytics, promo codes, and multilingual support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
